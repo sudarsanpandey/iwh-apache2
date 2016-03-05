@@ -1,0 +1,12 @@
+GET /login/ HTTP/1.1
+Accept:                    text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Encoding:           gzip, deflate, sdch
+Accept-Language:           en-US,en;q=0.8
+Cache-Control:             max-age=0
+Connection:                keep-alive
+Cookie:                    PHPSESSID=ptm57tg7858n30kkj2nsrg1hl5; AMCV_BC89700955D49BCD7F000101%40AdobeOrg=793872103%7CMCIDTS%7C16863%7CMCMID%7C42221091271615844860526070504941145040%7CMCAAMLH-1457553294%7C9%7CMCAAMB-1457553294%7CNRX38WO0n5BH8Th-nqAG_A%7CMCAID%7CNONE; s_ppvl=YBath%2520%257C%2520blog%2C17%2C17%2C948%2C1920%2C947%2C1920%2C1080%2C1%2CL; s_nr=1456955609847-Repeat; _ga=GA1.2.1145903049.1447724345; s_ppv=YBath%2520%257C%2520blog%2C18%2C18%2C996%2C1920%2C995%2C1920%2C1080%2C1%2CL
+Host:                      wcsc02.ad.ydesigngroup.com
+Upgrade-Insecure-Requests: 1
+User-Agent:                Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36
+X-Php-Ob-Level:            1
+
